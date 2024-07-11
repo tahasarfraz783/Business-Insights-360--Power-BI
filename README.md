@@ -2,7 +2,7 @@
 
 I have worked on this project as part of the [CodeBasics Power BI 2.0 Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-Here's a link to my [Dashboard]() and my [Presentation Video]()
+Here's a link to my [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmZiYjgyNTYtNmEzMS00N2M0LTg5YjItNTUyZWNhMjIzMjBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) and my [Presentation Video]()
 
 All icons used in the dashboard are created by [Freepik](https://www.flaticon.com/authors/freepik) at [Flaticon.com](https://www.flaticon.com)
 
