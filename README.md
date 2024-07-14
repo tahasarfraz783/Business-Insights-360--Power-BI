@@ -1,4 +1,4 @@
-# Business Insights 360 - Power BI
+# Business Insights 360 -- Power BI
 
 I have worked on this project as part of the [CodeBasics Power BI 2.0 Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
