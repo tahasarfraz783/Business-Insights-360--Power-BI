@@ -17,7 +17,7 @@ AtliQ Hardware has hired a team to onboard data analytics into their company and
 You are one of the data analysts hired by AtliQ Hardwares and have been provided two datasets. You have been tasked with:
 
 -  Creating a dashboard with the mock-up provided by shareholders
--  Having relevant information for each department in the country
+-  Having relevant information for each department in the company
 -  Implementing changes suggesting by shareholders following the shareholder meeting
 
 
